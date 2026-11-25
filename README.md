@@ -1,4 +1,5 @@
 # robosys202x
+[![test](https://github.com/ART113874/robosys202x/actions/workflows/test.yml/badge.svg?branch=dev)](https://github.com/ART113874/robosys202x/actions/workflows/test.yml)
 
 ロボットシステム学の授業で使用する練習用リポジトリです。
 
